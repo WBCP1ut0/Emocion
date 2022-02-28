@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xAB7ecfd394689527C49a11fD5B89E09E4B07F298",
+  "SCAN_LINK": "https://polygonscan.com/token/0xAB7ecfd394689527C49a11fD5B89E09E4B07F298",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "EmocionNftClub",
+  "SYMBOL": "ENC",
+  "MAX_SUPPLY": 13000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/emocion-nft-club",
+  "SHOW_BACKGROUND": true
+}
